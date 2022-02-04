@@ -15,5 +15,5 @@
 - Type JavaScript code that allows menu dropdowns carousel slides and videos to be played (12 hourse by 03/15)
 - Write JS logic for an interesting element on website (10 hourse by 03/03)
 - Have a working website with user interface elements (15 hours by 03/10) 
-- Create postmortem (2 hourse by 03/12)
+- Create postmortem (2 hours by 03/12)
 
