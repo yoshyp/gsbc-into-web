@@ -1,1 +1,3 @@
-[...Array(100)].map(e=>~~(Math.random()*1000))
+[...Array(100)].map(function () {
+        return ~~(Math.random() * 1000);
+    })
