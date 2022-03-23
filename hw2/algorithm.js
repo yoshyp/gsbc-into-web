@@ -1,3 +1,4 @@
-[...Array(100)].map(function () {
-        return ~~(Math.random() * 1000);
-    })
+let raNums = []
+let total = 0 
+let p1 = document.createElement("p")
+p1.textContent = ".";
