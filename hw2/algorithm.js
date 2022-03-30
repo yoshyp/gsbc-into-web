@@ -7,6 +7,9 @@ for (let x = 1; x <= 100; x++) {
     let p = document.createElement("p")
     p.textContent = rndNum
     raNums.push(rndNum)
+    total += rndNum
     //document.getElementbyId("numbers").appendChild(p)
     document.body.appendChild(p)
 }
+document.getElementById("maxi").textContent = "Max Number: " + Math.max(...raNums)
+document.getElementById("sumof").textContent = "Grand Total: " + total
