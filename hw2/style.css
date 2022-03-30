@@ -1,4 +1,16 @@
-h2 {
+h1,h2,h3,h4 {
     color: maroon;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#numbers {
+    float: left;
+    color: navy
+}
+#maxi {
+    text-align: center;
+    color: red
+}
+#sumof {
+    float: right;
+    color:aqua
 }
