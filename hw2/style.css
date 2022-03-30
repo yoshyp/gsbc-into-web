@@ -2,15 +2,15 @@ h1,h2,h3,h4 {
     color: maroon;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
-#numbers {
+.numbers {
     float: left;
     color: navy
 }
-#maxi {
+.maxi {
     text-align: center;
     color: red
 }
-#sumof {
+.sumof {
     float: right;
     color:aqua
 }
