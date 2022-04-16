@@ -38,3 +38,7 @@ ul {
   li a:hover {
     background-color: olive;
   }
+
+  img {
+    width: auto;
+  }
