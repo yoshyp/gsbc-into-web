@@ -48,3 +48,6 @@ ul {
     max-width: 100%;
     height: auto;
   }
+  p.element {
+    text-align: center;
+  }
