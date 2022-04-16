@@ -39,6 +39,12 @@ ul {
     background-color: olive;
   }
 
-  img {
+  div {
     width: auto;
+    padding: 15px;
+    border: 3px maroon
+  }
+  img {
+    max-width: 100%;
+    height: auto;
   }
